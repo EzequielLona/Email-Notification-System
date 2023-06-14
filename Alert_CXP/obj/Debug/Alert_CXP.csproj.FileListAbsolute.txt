@@ -1,0 +1,44 @@
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\bin\Debug\Alert_CXP.exe.config
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\bin\Debug\Alert_CXP.exe
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\bin\Debug\Alert_CXP.pdb
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\obj\Debug\Alert_CXP.csproj.AssemblyReference.cache
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\obj\Debug\Alert_CXP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\obj\Debug\Alert_CXP.Panel_CXP.resources
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\obj\Debug\Alert_CXP.Properties.Resources.resources
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\obj\Debug\Alert_CXP.csproj.GenerateResource.cache
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\obj\Debug\Alert_CXP.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\obj\Debug\Alert_CXP.exe
+C:\Users\Ezequiel_Lona\source\repos\Alert_CXP\Alert_CXP\obj\Debug\Alert_CXP.pdb
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\bin\Debug\Alert_CXP.exe.config
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\bin\Debug\Alert_CXP.exe
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\bin\Debug\Alert_CXP.pdb
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\obj\Debug\Alert_CXP.csproj.AssemblyReference.cache
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\obj\Debug\Alert_CXP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\obj\Debug\Alert_CXP.Panel_CXP.resources
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\obj\Debug\Alert_CXP.Properties.Resources.resources
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\obj\Debug\Alert_CXP.csproj.GenerateResource.cache
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\obj\Debug\Alert_CXP.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\obj\Debug\Alert_CXP.exe
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.01\Alert_CXP\obj\Debug\Alert_CXP.pdb
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.csproj.AssemblyReference.cache
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.Panel_CXP.resources
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.csproj.GenerateResource.cache
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\bin\Debug\Alert_CXP.exe.config
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\bin\Debug\Alert_CXP.exe
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\bin\Debug\Alert_CXP.pdb
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.Properties.Resources.resources
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.exe
+C:\Users\Ezequiel_Lona\Documents\repos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.pdb
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\bin\Debug\Alert_CXP.exe.config
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\bin\Debug\Alert_CXP.exe
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\bin\Debug\Alert_CXP.pdb
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.csproj.AssemblyReference.cache
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.Panel_CXP.resources
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.Properties.Resources.resources
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.csproj.GenerateResource.cache
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.exe
+C:\Users\Ezequiel_Lona\Videos\Alert_CXP - 1.0.0.2\Alert_CXP\obj\Debug\Alert_CXP.pdb
